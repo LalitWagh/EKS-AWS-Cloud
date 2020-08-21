@@ -8,4 +8,4 @@ nodeGroups:
     desiredCapacity: 5
     instanceType: t2.micro
     ssh:
-      publicKeyName: yashkhandelwal
+      publicKeyName: l
